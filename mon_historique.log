@@ -1,0 +1,176 @@
+    2  ls
+    3  cd Documents/WCS
+    4  ls
+    5  CD clmystery/
+    6  ls
+    7  cd clmystery/
+    8  ls
+    9  nano LICENSE.md 
+   10  nano README.md 
+   11  cd mystery/
+   12  ls
+   13  cd crimescene 
+   14  cd crimescene
+   15  nano crimescene 
+   16  grep "CLUE" crimescene memberships streets interviews people vehicles 
+   17  ls
+   18  grep "CLUE" crimescene memberships people vehicles 
+   19  grep "CLUE" people
+   20  grep "CLUE" vehicles 
+   21  ls
+   22  cd people 
+   23  nano people
+   24  nano vehicles 
+   25  cd memberships/
+   26  ls
+   27  cd AAA
+   28  cd AAdvantage
+   29  cd Costco 
+   30  grep "CLUE" AAA AAdvantage Costco
+   31  nano AAA
+   32  nano AAdvantage
+   33  grep "Annabel" AAA AAdvantage Costco Fitness_Galaxy Museum_of_Bash_History REI Rotary_Club TCSU_Alumni_Association Terminal_City_Library United_MileagePlus 
+   34  grep "Annabel" Delta_SkyMiles 
+   35  cd ..
+   36  ls
+   37  cd streets/
+   38  ls
+   39  nano Wycliff_Avenue 
+   40  cd ..
+   41  ls
+   42  cd interviews/
+   43  ls
+   44  ls -l
+   45  ls -p
+   46  grp Annabel *
+   47  grep Annabel *
+   48  grep CLUE *
+   49  grep "CLUE" *
+   50  cd ..
+   51  ls
+   52  grep CLUE *
+   53  interview
+   54  cd interviews/
+   55  grep Annabel *
+   56  grep Sun *
+   57  grep Fuglsang *
+   58  grep Oluwasegun *
+   59  grep Church *
+   60  ls
+   61  cd ..
+   62  ls
+   63  cd people 
+   64  nano people
+   65  ls
+   66  nano streets/
+   67  cd streets/
+   68  ls
+   69  cd ..
+   70  ls
+   71  cd people 
+   72  nano people
+   73  nano vehicles 
+   74  ls
+   75  cd streets/
+   76  ls
+   77  nano Buckingham_Place
+   78  man grep
+   79  grep 179 Buckingham_Place 
+   80  wc -l Buckingham_Place 
+   81  less +179 Buckingham_Place 
+   82  ls
+   83  cd ..
+   84  ls
+   85  cd interviews/
+   86  ls
+   87  cd interview-699607
+   88  nano interview-699607
+   89  cd ..
+   90  ls
+   91  cd vehicles 
+   92  nano vehicles 
+   93  grep "blue" vehicles 
+   94  grep Blue vehicles 
+   95  grep ­A 4 "blu" vehicles 
+   96  grep ­A 4 "blue" vehicles 
+   97  grep ­A 4 "Blue" vehicles 
+   98  grep man
+   99  man grep
+  100  grep -A 4 Blue vehicles
+  101  LS
+  102  HEAD _N 20 people 
+  103  head -n 20 people
+  104  ls
+  105  grep "Annabel Fuglsang"
+  106  grep "Annabel Fuglsang" people 
+  107  grep "Annabel Oluwasegun" people 
+  108  ls
+  109  cd streets/
+  110  less +176 Haley_Street 
+  111  ls
+  112  cd ..
+  113  ls
+  114  cd interviews/
+  115  nano interview-871877
+  116  cd ..
+  117  ls
+  118  cd streets/
+  119  less +176 Mattapan_Street 
+  120  head -n 173 streets/Mattapan_Street | tail -n 1
+  121  head -n 173 streets
+  122  less +173 Mattapan_Street 
+  123  cd..
+  124  cd ..
+  125  ls
+  126  cd interviews/
+  127  nano 9437737
+  128  ls
+  129  nano interview-9437737
+  130  ls
+  131  ls
+  132  cd ..
+  133  ls
+  134  cd vehicles 
+  135  grep L337 vehicles 
+  136  grep ­A 4 L337 vehicles 
+  137  grep -A "L337" vehicles 
+  138  grep -A 4 "L337" vehicles 
+  139  grep -A 5 "L337" mystery/vehicles
+  140  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith"
+  141  ls
+  142  cd memberships/
+  143  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith"
+  144  ls
+  145  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith"
+  146  cat Fitness_Galaxy AAA United_MileagePlus | grep -c "John Smith"
+  147  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith" | wc -l
+  148  wq
+  149  ls
+  150  cd ..
+  151  grep "jeremy" memberships/
+  152  grep "McDuck" *
+  153  grep "McDuck" *Jeremy
+  154  grep "Jeremy" *
+  155  ls
+  156  cd streets/
+  157  ls
+  158  less +284 Dunstable_Road 
+  159  ls
+  160  cd ..
+  161  ls
+  162  cd interviews/
+  163  nano interview-9620713
+  164  echo Jeremy Bowers
+  165  history > mon_historique.log
+  166  cd..
+  167  cd ..
+  168  ls
+  169  cd ..
+  170  ls
+  171  cd ..
+  172  ls
+  173  cd clmystery/
+  174  ls
+  175  ls
+  176  echo Jeremy Bowers
+  177  history > mon_historique.log
